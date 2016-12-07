@@ -1,10 +1,10 @@
 # tyler_lv
 
 Programmatūras izstrādes laik tika izmantoti:
-html
-laravel 5.3
-php 7.0.13
-css
+html,
+laravel 5.3,
+php 7.0.13,
+css,
 bootstrap 3.3.7
 
 Darba autors - Rūdolfs Matīss Miķelsons
